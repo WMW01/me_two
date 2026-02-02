@@ -16,6 +16,7 @@ ul{
 }
 
 .soup{
+    display: inline-block;
     background-image: url("images/tomatoEggSoup.JPG");
     width: 500px;
     height: 300px;
